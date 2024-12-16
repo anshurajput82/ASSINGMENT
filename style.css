@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(148, 213, 213);
+}
+
+
+.assin{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0%;
+    color: rgb(24, 29, 27);
+}
+.div{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   
+}
+img{
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+img:hover{
+    cursor: pointer;
+    scale: 1.05;
+}
+ table,th,td{
+    border: 1px solid;
+ }
